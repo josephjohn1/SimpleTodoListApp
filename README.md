@@ -3,4 +3,4 @@ Install Expo CLI:
 npm install -g expo-cli
 Install required packages using : npm install
 Start the Expo development server:
-expo start
+expo start 
